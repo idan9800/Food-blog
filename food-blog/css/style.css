@@ -1,0 +1,7 @@
+.min-height-900 {
+  min-height: 900px;
+}
+
+.dropdown-toggle-no-arrow::after {
+  display: none;
+}
