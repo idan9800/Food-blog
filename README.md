@@ -3,6 +3,7 @@
 
 #### Technologies 
 * PHP
+* MySQL
 * CSS
 * Bootsrap 4
 * Font awesome
